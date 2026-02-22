@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Monopoly",
+  "base_artist": "乃木坂46",
+  "createdAt": "2026-02-22T11:45:04.883820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MONOPOLY",
+      "artist": "Ariana Grande feat. Victoria Monét",
+      "has_synced": true,
+      "path": "select/01_MONOPOLY_Ariana_Grande_feat._Victoria_Monét.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MONOPOLY",
+      "artist": "Ariana Grande & Victoria Monét",
+      "has_synced": true,
+      "path": "select/02_MONOPOLY_Ariana_Grande_&_Victoria_Monét.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/03_Monopoly_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "easyFun feat. Noonie Bao",
+      "has_synced": true,
+      "path": "select/04_Monopoly_easyFun_feat._Noonie_Bao.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Monopoly (feat. Noonie Bao)",
+      "artist": "easyFun",
+      "has_synced": true,
+      "path": "select/05_Monopoly_(feat._Noonie_Bao)_easyFun.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Monopoly on Truth",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/06_Monopoly_on_Truth_Epica.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Monopoly On Sorrow",
+      "artist": "Suicidal Tendencies",
+      "has_synced": true,
+      "path": "select/07_Monopoly_On_Sorrow_Suicidal_Tendencies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/08_Monopoly_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Monopoly on Truth",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/09_Monopoly_on_Truth_Epica.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spider Thread Monopoly (feat. Hatsune Miku)",
+      "artist": "sasakure.UK feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/10_Spider_Thread_Monopoly_(feat._Hatsune_Miku)_sasakure.UK_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spider Thread Monopoly",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/11_Spider_Thread_Monopoly_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "Mokita feat. CADE",
+      "has_synced": true,
+      "path": "select/12_Monopoly_Mokita_feat._CADE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "Mokita, Cade",
+      "has_synced": true,
+      "path": "select/13_Monopoly_Mokita,_Cade.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/14_Monopoly_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "Tantric",
+      "has_synced": true,
+      "path": "select/15_Monopoly_Tantric.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "Tantric",
+      "has_synced": true,
+      "path": "select/16_Monopoly_Tantric.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Monopoly",
+      "artist": "EASYFUN",
+      "has_synced": true,
+      "path": "select/17_Monopoly_EASYFUN.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "MONOPOLY (with Victoria Monét)",
+      "artist": "Ariana Grande feat. Victoria Monét",
+      "has_synced": true,
+      "path": "select/18_MONOPOLY_(with_Victoria_Monét)_Ariana_Grande_feat._Victoria_Monét.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Monopoly (with Victoria Monét)",
+      "artist": "Ariana Grande (with Victoria Monét)",
+      "has_synced": true,
+      "path": "select/19_Monopoly_(with_Victoria_Monét)_Ariana_Grande_(with_Victoria_Monét).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Monopoly",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_Monopoly_乃木坂46.txt"
+    }
+  ]
+}
